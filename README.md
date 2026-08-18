@@ -47,41 +47,50 @@ Tools
 
 🚀 Featured Projects
 
-🎮 AI-Powered Gaming Management System
+🎮 🏟️ Arena Task Scheduler
 
-A Linux/Ubuntu-based gaming management system designed to provide a structured environment for managing games, players, matches, statistics, and AI-based winning-probability analysis.
+A C++17 sports tournament-based Operating System simulation that connects Operating System concepts with football tournament management.
 
 🔹 Main Features
 
-- Multiple game management
-- Player registration and management
-- Player records and statistics
-- Match management
-- Game and match records
-- Goal/score tracking
-- Number of players management
-- Player performance tracking
-- Match-related information management
-- Structured organization of games and players
-- AI-based analysis for estimating winning probability/percentage
+- CPU scheduling simulation
+- FCFS scheduling
+- Priority scheduling
+- Round-Robin scheduling
+- Shortest Job First (SJF)
+- Multi-Level Feedback Queue (MLFQ)
+- Process scheduling
+- Multithreading
+- Mutual exclusion
+- Condition variables
+- Semaphores
+- Deadlock detection
+- Deadlock recovery
+- Banker's Algorithm
+- Memory management
+- LRU page replacement
+- Tournament management
+- Match scheduling
+- Stadium/resource management
+- Performance metrics
+- AI-based match prediction
 
-🤖 AI Component
+⚽ Project Focus
 
-The system includes an AI-based component that analyzes available game/player information and provides an estimated winning probability or percentage.
+Operating Systems • C++17 • CPU Scheduling • Processes • Multithreading • Deadlocks • Memory Management • Football Tournament Simulation
 
-The AI functionality is integrated into the overall gaming system rather than being treated as a separate feature.
+🛠️ Technologies
 
-🐧 Development Environment
+- C++17
+- Git
+- GitHub
+- VS Code
+- Linux / Windows
 
-- Linux
-- Ubuntu
-- Command-line/Linux development environment
+🔗 Repository
 
-🎯 Project Focus
+- GitHub: https://github.com/Musab-Mann/arena-task-scheduler
 
-Gaming Management • Player Management • Match Management • Statistics • AI-based Prediction • Linux Development
-
----
 
 🏦 Banking Management System
 
