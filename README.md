@@ -48,6 +48,13 @@ A restaurant web project focused on visual presentation and responsive interacti
 
 - [Live demo](https://musab-mann.github.io/Savora-Restaurant/) · [Source code](https://github.com/Musab-Mann/Savora-Restaurant)
 
+### Kiki Charms — E-commerce Storefront
+A full-stack online store for charms, handmade jewelry, beads, keychains, and craft kits.
+
+- Next.js, React, TypeScript, and Supabase-backed PostgreSQL.
+- Product browsing, cart and checkout flows, order tracking, and a protected admin dashboard with mandatory MFA.
+- [Live demo](https://musabmannkikicharm.vercel.app) · [Source code](https://github.com/Musab-Mann/musabmannkikicharm)
+
 ### Arena Task Scheduler
 A C++ console project exploring CPU scheduling algorithms and operating-system concepts.
 
