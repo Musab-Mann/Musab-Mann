@@ -1,55 +1,70 @@
-# Hi, I'm Musab Hafeez Mann 👋
+<div align="center">
 
-**Computer Science Student | C++ | Front-End Development | SQL**
+# Musab Hafeez Mann
 
-I'm a Computer Science student who enjoys building practical software projects and applying programming concepts to real problems. I'm developing my skills in C++, object-oriented programming, databases, operating systems, and responsive web development.
+### Computer Science Student | Software & Web Development
 
-- 🔭 Building hands-on programming and web development projects
-- 🌱 Improving problem-solving, data structures, SQL, and software engineering fundamentals
-- 💡 Interested in software development, backend development, and database-driven applications
-- 🤝 Open to internships, learning opportunities, and collaboration
+Building practical projects with C++, web technologies, and databases.
 
-## 🛠️ Skills & Tools
+[LinkedIn](https://www.linkedin.com/in/musab-mann-572aa3315) · [GitHub Repositories](https://github.com/Musab-Mann?tab=repositories)
 
-- **Programming:** C++
-- **Web:** HTML5, CSS3, JavaScript
-- **Core concepts:** OOP, DSA fundamentals, programming logic
-- **Databases:** SQL, MySQL
-- **Systems:** Linux, Ubuntu, operating systems fundamentals
-- **Tools:** Git, GitHub, VS Code, MySQL Workbench
+</div>
 
-## 🚀 Featured Projects
+---
+
+## About Me
+
+I'm a Computer Science undergraduate focused on strengthening my software development fundamentals through hands-on projects. I enjoy turning ideas into useful applications and learning how software works from the interface to data handling.
+
+- 🎓 Studying Computer Science at SZABIST
+- 💻 Building projects with C++, JavaScript, HTML, CSS, and SQL
+- 🧠 Practising object-oriented programming, problem-solving, and database concepts
+- 🌱 Currently improving my web development, backend, and software engineering skills
+- 🤝 Open to internships, collaborative projects, and learning opportunities
+
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| Programming | C++, JavaScript |
+| Front End | HTML5, CSS3, responsive web development |
+| Databases | SQL, MySQL |
+| Core Concepts | OOP, data structures and algorithms fundamentals, operating systems |
+| Tools | Git, GitHub, VS Code, Linux/Ubuntu |
+
+## Featured Projects
 
 ### 🍽️ Savora Restaurant Website
-A responsive restaurant landing page built with HTML, CSS, and vanilla JavaScript, with interactive menu features, mobile navigation, scroll effects, and form validation.
+A responsive restaurant website with interactive menu features, mobile navigation, scroll effects, and form validation.
 
-- [**Live Demo**](https://musab-mann.github.io/Savora-Restaurant/)
-- [Source Code & README](https://github.com/Musab-Mann/Savora-Restaurant)
+- **[Live Demo](https://musab-mann.github.io/Savora-Restaurant/)**
+- [Source Code](https://github.com/Musab-Mann/Savora-Restaurant)
 
 ### 🏟️ Arena Task Scheduler
-A C++17 console application combining a football tournament simulation with operating-system concepts.
+A C++ console project combining a football tournament simulation with operating-system concepts.
 
-- CPU scheduling: FCFS, Priority, Round Robin, SJF, and MLFQ
-- Synchronization and resource-management demonstrations
-- Deadlock-related algorithms and LRU page-replacement simulation
-- [View repository and build instructions](https://github.com/Musab-Mann/arena-task-scheduler)
+- Demonstrates FCFS, SJF, Priority, Round Robin, and MLFQ scheduling
+- Includes synchronization/resource-management demonstrations and algorithm simulations
+- [Repository & Build Instructions](https://github.com/Musab-Mann/arena-task-scheduler)
 
-### 🏦 Banking & CGPA Calculator Projects
+### 💻 Programming & Database Practice
 C++ practice projects focused on programming logic, data handling, and academic calculations.
 
-- [Explore internship project repository](https://github.com/Musab-Mann/Apexcifytechnologys_internship_)
+- [Internship Projects](https://github.com/Musab-Mann/Apexcifytechnologys_internship_)
 
-## 📚 Currently Improving
+## Currently Learning
 
-- C++ and problem-solving
+- Stronger C++ and problem-solving skills
 - Data structures and algorithms
 - SQL and relational database design
-- Responsive web development
-- Git workflows, testing, and project documentation
+- Modern, responsive web development
+- Testing, documentation, and Git workflows
 
-## 🤝 Connect
+---
+
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/musab-mann-572aa3315)
-- [GitHub Repositories](https://github.com/Musab-Mann?tab=repositories)
+- [Explore my repositories](https://github.com/Musab-Mann?tab=repositories)
 
-Thanks for visiting my profile!
+<sub>Thanks for visiting my profile.</sub>
