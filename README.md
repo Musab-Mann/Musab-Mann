@@ -34,8 +34,10 @@ C++ practice projects focused on programming logic, object-oriented design, data
 
 [**Explore internship project repository →**](https://github.com/Musab-Mann/Apexcifytechnologys_internship_)
 
-### 🌐 Web Development Projects
-I also work on website projects and continue improving their usability, structure, and documentation.
+### 🍽️ Savora Restaurant Website
+A responsive restaurant landing page built with HTML, CSS, and vanilla JavaScript, featuring menu interactions, mobile navigation, scroll effects, and form validation.
+
+[**View source code and setup instructions →**](https://github.com/Musab-Mann/Savora-Restaurant)
 
 [**Browse all repositories →**](https://github.com/Musab-Mann?tab=repositories)
 
