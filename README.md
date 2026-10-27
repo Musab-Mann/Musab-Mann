@@ -2,69 +2,81 @@
 
 # Musab Hafeez Mann
 
-### Computer Science Student | Software & Web Development
+### Software Developer · Web Experiences · AI & Workflow Automation
 
-Building practical projects with C++, web technologies, and databases.
+I build practical software, responsive web experiences, and automation workflows that connect tools and reduce repetitive work.
 
-[LinkedIn](https://www.linkedin.com/in/musab-mann-572aa3315) · [GitHub Repositories](https://github.com/Musab-Mann?tab=repositories)
+[Portfolio & Projects](https://github.com/Musab-Mann?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/musab-mann-572aa3315) · [Contact](mailto:musabmann91@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a Computer Science undergraduate focused on strengthening my software development fundamentals through hands-on projects. I enjoy turning ideas into useful applications and learning how software works from the interface to data handling.
+I'm a Computer Science undergraduate at SZABIST who enjoys turning real requirements into useful, maintainable software. My work spans front-end development, C++ programming, databases, and workflow automation.
 
-- 🎓 Studying Computer Science at SZABIST
-- 💻 Building projects with C++, JavaScript, HTML, CSS, and SQL
-- 🧠 Practising object-oriented programming, problem-solving, and database concepts
-- 🌱 Currently improving my web development, backend, and software engineering skills
-- 🤝 Open to internships, collaborative projects, and learning opportunities
+- Build responsive web interfaces with attention to usability and mobile layouts.
+- Develop programming projects that strengthen algorithms, object-oriented design, and problem-solving.
+- Explore AI assistants, n8n workflows, API integrations, and business-process automation.
+- Value readable code, clear documentation, practical testing, and steady iteration.
+- Open to suitable freelance projects, internships, and collaborative opportunities.
 
-## Tech Stack
+## Skills & Tools
 
-| Area | Technologies |
+| Area | Tools / Concepts |
 | --- | --- |
-| Programming | C++, JavaScript |
-| Front End | HTML5, CSS3, responsive web development |
-| Databases | SQL, MySQL |
-| Core Concepts | OOP, data structures and algorithms fundamentals, operating systems |
-| Tools | Git, GitHub, VS Code, Linux/Ubuntu |
+| Web development | HTML, CSS, JavaScript, React, Next.js |
+| Programming | C++, TypeScript, Node.js fundamentals |
+| Automation & AI | n8n, API integrations, webhooks, AI workflow concepts |
+| Data | SQL, relational database fundamentals |
+| Engineering | OOP, Git, GitHub, debugging, documentation |
+| Environment | Windows, Linux/Ubuntu, VS Code |
 
-## Featured Projects
+## Selected Projects
 
-### 🍽️ Savora Restaurant Website
-A responsive restaurant website with interactive menu features, mobile navigation, scroll effects, and form validation.
+### Al Qadri Restaurant Website
+A deployed restaurant website designed to make menu discovery and ordering straightforward.
 
-- **[Live Demo](https://musab-mann.github.io/Savora-Restaurant/)**
-- [Source Code](https://github.com/Musab-Mann/Savora-Restaurant)
+- Responsive restaurant pages, menu browsing, category navigation, and dish information.
+- WhatsApp order handoff and centralized restaurant/menu content.
+- Next.js, React, TypeScript, and Vercel.
+- [Live website](https://al-qadiri-website-musab17.vercel.app) · [Source code](https://github.com/Musab-Mann/AL-QADIRI-WEBSITE)
 
-### 🏟️ Arena Task Scheduler
-A C++ console project combining a football tournament simulation with operating-system concepts.
+### Savora Restaurant Website
+A restaurant web project focused on visual presentation and responsive interactions.
 
-- Demonstrates FCFS, SJF, Priority, Round Robin, and MLFQ scheduling
-- Includes synchronization/resource-management demonstrations and algorithm simulations
-- [Repository & Build Instructions](https://github.com/Musab-Mann/arena-task-scheduler)
+- [Live demo](https://musab-mann.github.io/Savora-Restaurant/) · [Source code](https://github.com/Musab-Mann/Savora-Restaurant)
 
-### 💻 Programming & Database Practice
-C++ practice projects focused on programming logic, data handling, and academic calculations.
+### Arena Task Scheduler
+A C++ console project exploring CPU scheduling algorithms and operating-system concepts.
 
-- [Internship Projects](https://github.com/Musab-Mann/Apexcifytechnologys_internship_)
+- Covers scheduling approaches such as FCFS, SJF, Priority, Round Robin, and MLFQ.
+- [Repository and setup](https://github.com/Musab-Mann/arena-task-scheduler)
 
-## Currently Learning
+### More projects
+Browse [all public repositories](https://github.com/Musab-Mann?tab=repositories) for additional coursework and experiments.
 
-- Stronger C++ and problem-solving skills
-- Data structures and algorithms
-- SQL and relational database design
-- Modern, responsive web development
-- Testing, documentation, and Git workflows
+## How I Work
 
----
+1. Clarify the user problem and scope.
+2. Break the work into small, testable tasks.
+3. Build with maintainability and responsive behaviour in mind.
+4. Validate key flows, document setup, and improve from feedback.
 
-## Let's Connect
+## Currently Improving
 
-- [LinkedIn](https://www.linkedin.com/in/musab-mann-572aa3315)
-- [Explore my repositories](https://github.com/Musab-Mann?tab=repositories)
+- Stronger software engineering and data-structure fundamentals
+- TypeScript, React, and full-stack application development
+- API integrations and workflow automation
+- Testing, CI, deployment, and project documentation
 
-<sub>Thanks for visiting my profile.</sub>
+## Connect
+
+- LinkedIn: [musab-mann](https://www.linkedin.com/in/musab-mann-572aa3315)
+- GitHub: [@Musab-Mann](https://github.com/Musab-Mann)
+- Email: [musabmann91@gmail.com](mailto:musabmann91@gmail.com)
+
+<div align="center">
+  <sub>Thanks for visiting — feel free to explore the repositories and project demos.</sub>
+</div>
